@@ -1,19 +1,10 @@
-table,th,td{
-	border:1px solid black;
-	text-align:center;
-	 background-color: rgba(0, 0, 0, 0);
+/* Your CSS Code here. */
+
+.table-1 li{
+	padding-left: 38%;
 }
-.it-1,.it-2,.it-3,.it-4{
-	width:100%;
-}
-.it-4 td{
-	color:white;
-	  background-color: rgb(0, 0, 0);
-}
-.unit1{
-	padding:50px 0px;
-	width:50%
-}
-.unit2{
-	padding:20px 0px;
+.bg-black{
+	background-color: black; 
+	color: white;
+	 
 }
