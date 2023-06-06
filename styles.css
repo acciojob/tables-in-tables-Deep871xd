@@ -1,10 +1,8 @@
-/* Your CSS Code here. */
-
 .table-1 li{
 	padding-left: 38%;
 }
 .bg-black{
-	background-color: rgba(0, 0, 0, 0); 
+	background-color:rgba(0, 0, 0); 
 	color: white;
 	 
 }
