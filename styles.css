@@ -7,7 +7,7 @@ table,th,td{
 }
 .it-4 td{
 	color:white;
-	background-color:rgba(0, 0, 0, 0);
+	background-color: black; /* Set the background-color here */
 }
 .unit1{
 	padding:50px 0px;
